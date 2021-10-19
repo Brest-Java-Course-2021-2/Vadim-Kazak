@@ -1,4 +1,4 @@
-# Software Requirements Specification of programm "Library"
+# Software Requirements Specification of program "Library"
 
 1. Introduction
 	- Purpose
