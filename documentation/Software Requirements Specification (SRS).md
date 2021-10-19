@@ -49,7 +49,7 @@ Main script:
 * the user selects the menu item "Books"
 * the form for viewing the list of all books is displayed
 
-image1
+![1](https://user-images.githubusercontent.com/80473336/137957695-2de6d8d9-c1dd-4a3c-afbb-c064226ea9e3.PNG)
 
 The list displays the following columns:
 
@@ -83,7 +83,7 @@ Cancellation script:
 * the user enters data(book title, description) and clicks "Cancel" button 
 * data is not saved to the database and a form for viewing all books opens
 
-image2
+![2](https://user-images.githubusercontent.com/80473336/137957744-03a03345-a3f2-4ce2-876e-7ecbb5b06704.PNG)
 
 #### 2.1.3 Edit a book
 
@@ -104,7 +104,7 @@ Cancellation script:
 * the user changes data and clicks "Cancel" button
 * data is not saved to the database and a form for viewing all books opens
 
-image3
+![3](https://user-images.githubusercontent.com/80473336/137957796-6b9927a5-b0e1-4522-81f4-663ee2adb9a0.PNG)
 
 **Data validation constraints:**
 
@@ -131,7 +131,7 @@ Cancellation script:
 * the user clicks "Cancel" button
 * the form for viewing all books opens
 
-image4
+![4](https://user-images.githubusercontent.com/80473336/137957821-26059a47-abba-4b2f-a62c-d3502a65f9d3.PNG)
 
 ### 2.2 Readers
 
@@ -144,7 +144,7 @@ Main script:
 * the user selects the menu item "Readers"
 * the form for viewing the list of all readers is displayed
 
-image5
+![5](https://user-images.githubusercontent.com/80473336/137957852-400a6148-2808-461f-8ef2-722cb5f1b94f.PNG)
 
 The list displays the following columns:
 
@@ -171,7 +171,7 @@ Cancellation script:
 * the user enters data(first name, second name, book title) and clicks "Cancel" button 
 * data is not saved to the database and a form for viewing all readers opens
 
-image6
+![6](https://user-images.githubusercontent.com/80473336/137957885-01d709d4-7ec9-47fb-a6f7-bd9ea1f33002.PNG)
 
 #### 2.2.3 Edit a reader
 
@@ -192,7 +192,7 @@ Cancellation script:
 * the user changes data and clicks "Cancel" button
 * data is not saved to the database and a form for viewing all readers opens
 
-image7
+![7](https://user-images.githubusercontent.com/80473336/137957916-38ce8568-8c65-4cd2-b890-797bdd3de6f2.PNG)
 
 **Data validation constraints:**
 
@@ -218,5 +218,5 @@ Cancellation script:
 * the user clicks "Cancel" button
 * the form for viewing all readers opens
 
-image8
+![8](https://user-images.githubusercontent.com/80473336/137957939-efde38a5-79ee-4225-9dc0-98fc8b5cd9bb.PNG)
 	
