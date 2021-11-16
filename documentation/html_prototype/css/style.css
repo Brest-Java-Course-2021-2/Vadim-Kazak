@@ -38,6 +38,17 @@ body {
 
 .search {
     margin-top: 10px;
+    width: 60%;
+}
+
+.search label {
+    text-transform: uppercase;
+    padding-top: 5px;
+    margin: 0 5px 0;
+}
+
+.search input {
+    margin-right: 5px;
 }
 
 .add-link {
