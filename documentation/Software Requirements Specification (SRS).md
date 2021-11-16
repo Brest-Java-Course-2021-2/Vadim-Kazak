@@ -34,7 +34,7 @@ The purpose of the library management system is to ease books and readers manage
 - edit a reader
 - delete a reader
 - view the number of issued books
-- selection of a book using a filter by name
+- search a reader by creation date
 
 ## 2. Overall description
 
@@ -42,27 +42,20 @@ The purpose of the library management system is to ease books and readers manage
 
 #### 2.1.1 View a list of books
 
-This application mode allows you to view the list of books and the number of issued books. 
+This application mode allows you to view the list of books, and the number of issued books. 
 
 Main script:
 
 * the user selects the menu item "Books"
 * the form for viewing the list of all books is displayed
 
-![1](https://user-images.githubusercontent.com/80473336/137957695-2de6d8d9-c1dd-4a3c-afbb-c064226ea9e3.PNG)
+![1](https://user-images.githubusercontent.com/80473336/141957989-a80501fd-34ae-4f90-89ac-0cb2b555c6cb.PNG)
 
 The list displays the following columns:
 
 * title - title of the book
 * number of issued books
 * description - description of the book
-
-**Search:**
-
-* it is possible to search by the title of the book
-* search after entering the name is carried out by clicking the "Search" button
-
-
 
 #### 2.1.2 Add a book
 
@@ -131,7 +124,7 @@ Cancellation script:
 * the user clicks "Cancel" button
 * the form for viewing all books opens
 
-![4](https://user-images.githubusercontent.com/80473336/137957821-26059a47-abba-4b2f-a62c-d3502a65f9d3.PNG)
+![2](https://user-images.githubusercontent.com/80473336/141958277-8ef1d307-140e-46a8-a517-65e2d3dc8b5c.PNG)
 
 ### 2.2 Readers
 
@@ -144,13 +137,19 @@ Main script:
 * the user selects the menu item "Readers"
 * the form for viewing the list of all readers is displayed
 
-![5](https://user-images.githubusercontent.com/80473336/137957852-400a6148-2808-461f-8ef2-722cb5f1b94f.PNG)
+![3](https://user-images.githubusercontent.com/80473336/141958975-b2dcb043-9fcf-4c62-a80b-989b2708e926.PNG)
 
 The list displays the following columns:
 
 * first name - first name of the reader
 * second name - second name of the reader
-* book title
+* book title - the book that was issued
+* created on - creation date of the entry
+
+**Search:**
+
+* it is possible to search by the creation date of the readers`s entry
+* search after entering the date is carried out by clicking the "Search" button
 
 #### 2.2.2 Add a reader
 
@@ -218,5 +217,5 @@ Cancellation script:
 * the user clicks "Cancel" button
 * the form for viewing all readers opens
 
-![8](https://user-images.githubusercontent.com/80473336/137957939-efde38a5-79ee-4225-9dc0-98fc8b5cd9bb.PNG)
+![4](https://user-images.githubusercontent.com/80473336/141959240-89c879b8-0762-4524-a609-8bcd5de54995.PNG)
 	
